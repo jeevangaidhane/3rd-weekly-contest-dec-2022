@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.item{
+    color: rgb(5, 5, 250);
+    cursor: pointer;
+}
+.fimg{
+    height: 70px;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.container{
+    justify-content: center;
+    align-items: stretch;
+}
